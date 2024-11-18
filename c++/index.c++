@@ -25,13 +25,13 @@ int main() {
 
     // Provide feedback based on BMI value
     if (bmi < 18.5) {
-        std::cout << "You are underweight." << std::endl;
+        std::cout << "çok zayıfsın." << std::endl;
     } else if (bmi >= 18.5 && bmi < 24.9) {
-        std::cout << "You have a normal weight." << std::endl;
+        std::cout << "normal kilolusun" << std::endl;
     } else if (bmi >= 25 && bmi < 29.9) {
-        std::cout << "You are overweight." << std::endl;
+        std::cout << "çok kilolusun." << std::endl;
     } else {
-        std::cout << "You are obese." << std::endl;
+        std::cout << "obezsin" << std::endl;
     }
 
     return 0;
