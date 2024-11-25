@@ -47,3 +47,28 @@ i++;
 cout<<"sonuc:"<<top/n;
 }
 }
+
+//////////////////////
+
+#include<iostream>
+
+#include<conio.h>
+
+using namespace std;
+
+ main(){
+
+for(int i=1;i<=50;i++){
+
+
+if (i==23) "In
+
+continue;
+
+
+
+cout<<i<<".Sayi:"<<i<<endl;
+
+}
+
+}
