@@ -26,3 +26,24 @@ cout <<"sayiyi gir:";cin>>sayi;
 top=top+sayi;
 }
 cout<<"somuç:"<<top/n;}
+
+
+////////////////////////////
+
+#include<iostream>
+#include<conio.h>
+using namespace std;
+
+main (){
+int n, sayi,top=0;
+cout<<"kac adet saytı gireceksiniz";
+cin>>n;
+while(i<n){
+cout <<"sayı giriniz";
+cin>> sayi;
+top+=sayi;
+i++;
+}
+cout<<"sonuc:"<<top/n;
+}
+}
