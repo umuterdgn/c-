@@ -72,3 +72,35 @@ cout<<i<<".Sayi:"<<i<<endl;
 }
 
 }
+
+
+
+///////////////////////
+
+#include<iostream>
+
+#include<conio.h>
+
+using namespace std;
+
+main(){
+
+char kar;
+
+while(1){
+
+"In"
+
+kar=getch();
+
+printf("%c:%d", kar,kar);
+
+printf("\n");
+
+if(kar=='q'||kar=='Q')
+
+break;
+
+-}
+
+-}
