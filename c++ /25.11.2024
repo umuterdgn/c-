@@ -1,0 +1,28 @@
+#include<iostream>
+#include<conio.h>
+using namespace std;
+main(){
+int a =10;
+cout <<"a:"<<a<<end1;
+cout <<"sonra artırma kullanılırsa a++ "<<endl;
+cout <<"a++:"<<a++<<end1;
+cout <<"a:"<<a<<end1;
+cout<<***************;
+}
+
+
+//-----Döngüler----------
+
+#include<iostream>
+#include<conio.h>
+using namespace std;
+
+main (){
+int n, sayi,top=0;
+cout<<"kac adet saytı gireceksiniz";
+cin>>n;
+for(int i=0; i<n; i++){
+cout <<"sayiyi gir:";cin>>sayi;
+top=top+sayi;
+}
+cout<<"somuç:"<<top/n;}
