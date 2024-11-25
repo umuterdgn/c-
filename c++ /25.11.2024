@@ -28,7 +28,7 @@ top=top+sayi;
 cout<<"somuç:"<<top/n;}
 
 
-////////////////////////////
+///////////////////////////////////////////////
 
 #include<iostream>
 #include<conio.h>
@@ -75,7 +75,9 @@ cout<<i<<".Sayi:"<<i<<endl;
 
 
 
-///////////////////////
+///////////////////////////////////////////////////
+
+
 #include<iostream>
 #include<conio.h>
 using namespace std;
