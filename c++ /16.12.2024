@@ -1,1 +1,53 @@
+FONKSİYONLAR:
 
+#include <iostream>
+#include <cmath>
+using namespace std;
+main(){
+    float a=4.168;
+//    cout<< "sonuc:"<<ceil(a);// yukarıya yuvarlar
+      cout<< "sonuc:"<<floor(a);
+}
+
+
+fonksiyon
+
+#include <iostream>
+#include <cmath>
+using namespace std;
+void topla(){ 
+    int sayi1,sayı2;
+    cout << "biğrinci sayıyı gir";
+    cin>>sayi1;
+    cout <<"ikinci sayıyı gir";
+    cin>>sayi2;
+    cout>>"TOPLAM:"<< sayi1+sayi2;
+}
+main(){
+    topla();
+}
+
+ÜSLÜ İFADE ÖRNEK:
+
+// Online C++ compiler to run C++ program online
+#include <iostream>
+#include <cmath>
+using namespace std;
+int us(int a,int b){
+    int sayi=a;
+    int ust=b;
+    int sonuc=1;
+    for(int i=0;i<ust;i++)
+    sonuc*=sayi;
+    return sonuc;
+}
+
+
+
+main(){
+int sayi,ust;
+cout<<"sayı giriniz";cin>>sayi;
+cout<<"üssü gir";cin>>ust;
+cout<<"sonuç";ust(sayi,ust)
+
+}
