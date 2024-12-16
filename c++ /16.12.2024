@@ -29,7 +29,7 @@ main(){
 
 ÜSLÜ İFADE ÖRNEK:
 
-// Online C++ compiler to run C++ program online
+
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -48,6 +48,6 @@ main(){
 int sayi,ust;
 cout<<"sayı giriniz";cin>>sayi;
 cout<<"üssü gir";cin>>ust;
-cout<<"sonuç";ust(sayi,ust)
+cout<<"sonuç: "<<us(sayi,ust);
 
 }
